@@ -1,0 +1,20 @@
+{
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_accuracy": 0.836,
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_failed": 0,
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_runtime": 371.048,
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_samples_per_second": 8.085,
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_steps_per_second": 1.011,
+    "multitest_COCO_POPE_ADVERSARIAL_q_a_target_failed": 0,
+    "multitest_COCO_POPE_POPULAR_q_a_accuracy": 0.8576666666666667,
+    "multitest_COCO_POPE_POPULAR_q_a_failed": 0,
+    "multitest_COCO_POPE_POPULAR_q_a_runtime": 371.5244,
+    "multitest_COCO_POPE_POPULAR_q_a_samples_per_second": 8.075,
+    "multitest_COCO_POPE_POPULAR_q_a_steps_per_second": 1.009,
+    "multitest_COCO_POPE_POPULAR_q_a_target_failed": 0,
+    "multitest_COCO_POPE_RANDOM_q_a_accuracy": 0.8786941580756014,
+    "multitest_COCO_POPE_RANDOM_q_a_failed": 0,
+    "multitest_COCO_POPE_RANDOM_q_a_runtime": 390.3248,
+    "multitest_COCO_POPE_RANDOM_q_a_samples_per_second": 7.455,
+    "multitest_COCO_POPE_RANDOM_q_a_steps_per_second": 0.933,
+    "multitest_COCO_POPE_RANDOM_q_a_target_failed": 0
+}
