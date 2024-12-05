@@ -1,0 +1,8 @@
+{
+    "multitest_POINT_LOCAL_p_val_accuracy": 0.6692070030895984,
+    "multitest_POINT_LOCAL_p_val_failed": 0,
+    "multitest_POINT_LOCAL_p_val_runtime": 608.5914,
+    "multitest_POINT_LOCAL_p_val_samples_per_second": 7.977,
+    "multitest_POINT_LOCAL_p_val_steps_per_second": 0.997,
+    "multitest_POINT_LOCAL_p_val_target_failed": 0
+}

@@ -1,0 +1,8 @@
+{
+    "multitest_POINT_TWICE_gq_p_val_accuracy": 0.6978117401875651,
+    "multitest_POINT_TWICE_gq_p_val_failed": 0,
+    "multitest_POINT_TWICE_gq_p_val_runtime": 750.8478,
+    "multitest_POINT_TWICE_gq_p_val_samples_per_second": 7.669,
+    "multitest_POINT_TWICE_gq_p_val_steps_per_second": 0.959,
+    "multitest_POINT_TWICE_gq_p_val_target_failed": 0
+}

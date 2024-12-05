@@ -1,0 +1,8 @@
+{
+    "multitest_POINT_TWICE_sq_b_val_accuracy": 0.7304619659604029,
+    "multitest_POINT_TWICE_sq_b_val_failed": 0,
+    "multitest_POINT_TWICE_sq_b_val_runtime": 759.2551,
+    "multitest_POINT_TWICE_sq_b_val_samples_per_second": 7.584,
+    "multitest_POINT_TWICE_sq_b_val_steps_per_second": 0.948,
+    "multitest_POINT_TWICE_sq_b_val_target_failed": 0
+}
